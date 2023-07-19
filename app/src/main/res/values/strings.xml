@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="not_registered_yet">Not registered yet</string>
+    <string name="register_here">Register here</string>
+    <string name="register">Register</string>
+    <string name="already_registered">Already registered</string>
+    <string name="login_here">Login here</string>
+</resources>
